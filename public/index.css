@@ -1,0 +1,84 @@
+body, html {
+    height: 100%;
+    min-width: 900px;
+    margin: 0px 0px 0px 0px;
+}
+
+.parallax {
+    /* The image used */
+    background: url('https://img00.deviantart.net/cc7f/i/2015/252/2/1/blue_cloud_stock_background_by_amka_stock-d98y2cl.jpg');
+    /*background-color: #58D68D;*/
+
+    /* Full height */
+    height: 100%; 
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.item {
+    /*height: 1000px;*/
+    background-color: white;
+}
+
+#name {
+    font-family: Didot, "Didot LT STD", "Hoefler Text", Garamond, "Times New Roman", serif;
+    color: white;
+    font-size: 50px;
+    margin-top: 119px;
+    margin-bottom: 10px;
+}
+
+#intro {
+    font-family: Didot, "Didot LT STD", "Hoefler Text", Garamond, "Times New Roman", serif;
+    color: white;
+    font-size: 25px;
+    margin-left: 500px;
+}
+
+.font {
+    font-family: Didot, "Didot LT STD", "Hoefler Text", Garamond, "Times New Roman", serif;
+}
+
+.header {
+    font-family: Didot, "Didot LT STD", "Hoefler Text", Garamond, "Times New Roman", serif;
+    text-align: center;
+}
+
+#profileimg {
+    width: 200px;
+    margin-top: 50px;
+    margin-left: 150px;
+}
+
+#rootifyimg {
+    width: 250px;
+    margin-top: 100px;
+    margin-left: 125px;
+}
+
+#musaicimg {
+    width: 250px;
+    margin-top: 100px;
+    margin-left: 125px;
+}
+
+#rootifyinfo {
+    font-family: Didot, "Didot LT STD", "Hoefler Text", Garamond, "Times New Roman", serif;
+    margin-top: 100px;
+    margin-right: 40px;
+}
+
+#musaicinfo {
+    font-family: Didot, "Didot LT STD", "Hoefler Text", Garamond, "Times New Roman", serif;
+    margin-top: 150px;
+    margin-right: 40px;
+}
+
+.logo {
+    width: 100px;
+    margin-top: 290px;
+}
